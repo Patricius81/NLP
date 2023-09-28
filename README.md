@@ -1,4 +1,5 @@
-# NLP
+# Topic Modeling of Amazon Reviews 
+
 NLP - Project
 
 BERTopic : https://maartengr.github.io/BERTopic/index.html
