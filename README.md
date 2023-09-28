@@ -1,6 +1,12 @@
 # Topic Modeling of Amazon Reviews 
 
-NLP - Project
+# DATA 
+Per-category data -> Software
+
+https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+
+# Topic modeling techniques
+
 
 BERTopic : https://maartengr.github.io/BERTopic/index.html
 
