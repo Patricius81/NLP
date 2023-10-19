@@ -15,3 +15,8 @@ LDA: https://omdena.com/blog/latent-dirichlet-allocation
 NMF: https://www.kaggle.com/code/rockystats/topic-modelling-using-nmf
 
 
+Topic modeling in Python
+
+https://spotintelligence.com/2022/12/15/topic-modelling-python/
+
+https://github.com/MaartenGr/BERTopic
